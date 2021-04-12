@@ -3,7 +3,8 @@ For further development and free access of Pulsar-size cages.
 
 All designs in this library are free to use and modify for personal use as per the license - please get in touch with me if you are interested in selling cages. 
 
-You may use the STRS_H2 file or any other .f3d files you find as a jumping-off point, I'll be happy to provide specific .f3d or STEP files of the latest batch upon request. Contact me at kurymakesthings@gmail.com or on Discord (Kuryaka #0932) in the BAFT or /r/Nerf servers (or wherever you happen to find me!) if you have questions or source file requests. 
+You may use the STRS_H2 file or any other .f3d files you find as a jumping-off point, I'll be happy to provide specific .f3d or STEP files of the latest batch upon request. 
+Contact me at kurymakesthings@gmail.com or on Discord (Kuryaka #0932) in the BAFT or /r/Nerf servers (or wherever you happen to find me!) if you have questions or source file requests. 
 
 Quick design guidelines: 
 
