@@ -14,4 +14,6 @@ Wheel well diameter is 32mm but may be pushed to 31.5mm if you really need the s
 
 Hurricane-size motor wells work with 2 perimeters (0.8mm walls). Use multiples of your line thickness to avoid odd artifacting issues. 
 
+Credit to Woody for the Woozi N20 cage design: https://www.thingiverse.com/thing:4225569
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
